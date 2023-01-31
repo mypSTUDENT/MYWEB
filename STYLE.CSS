@@ -1,0 +1,23 @@
+H1 {
+	text-align: center;
+	/*I SIMPLY PUT THE TEXT IN THE CENTRE OF THE PAGE*/
+	font-family: cursive;
+	color: darkred;
+	text-shadow: 3PX 5PX 8PX black;
+	/*THE SHADOW HAS 4 PROPERTIES THE VERTICAL SHADOW, THE HORIZONTAL SHADOW, BLUR AND THE COLOUR*/
+}
+BODY{
+	background-color: darkseagreen;
+	/*PAGE COLOUR*/
+}
+IMG{
+	width: 150PX;
+	height: 150PX;
+	/*IMAGE SIZE*/
+	border: 10PX whitesmoke solid;
+	/*BORDER THICKNESS AND COLOUR*/
+	position: absolute;
+	right: 550px;
+	/*POSITION THE IMAGE 550PX FROM THE RIGHT OF THE PAGE*/
+	 
+}
